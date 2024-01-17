@@ -66,7 +66,7 @@
     </a> _ _
 </div> _ _
 
-![ Animação de cobra ] ( https://github.com/AlebeltramoGF/LuigiGF/blob/output/github-contribution-grid-snake.svg )
+![ Animação de cobra ] ( https://github.com/AlebeltramoGF/AlebeltramoGF/blob/output/github-contribution-grid-snake.svg )
 
 - 🌱 Atualmente estou aprendendo ** Python **
 
