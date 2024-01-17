@@ -6,7 +6,6 @@
   < img  height = " 180em "  src = " https://github-readme-stats.vercel.app/api/top-langs/?usernamAlebeltramoGF&layout=compact&langs_count=16&theme=great-gatsby " />
 </div> _ _
 
-## Codar é um modo de pensar
 < div  estilo = " display : flex ; justificar-conteúdo : espaço entre ; " > < br >
   < img  alinhar = " esquerda " altura = " 150 "  alt = " tempo de codificação "  src = " code.gif " >
   < img  alinhar = " centro "  altura = " 30 "  largura = " 40 "  alt = " js-icon "   src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg " >
